@@ -37,4 +37,4 @@ This repository houses the formal constitutional, ethical, operational, and judi
 ## 📄 License
 
 Published under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) / [GNU General Public License](LICENSE).  
-Part of the **[World Search Council](https://www.worldsearchcouncil.org)** ([GitHub Organization](https://github.com/World-Search-Council)) open standards ecosystem.
+Part of the **[World Search Council](https://www.worldsearchcouncil.org)** ([GitHub Organization](https://github.com/World-Search-Council)) open standards ecosystem · Founding Lead Maintainer: **[@thebennos](https://github.com/thebennos)**.
